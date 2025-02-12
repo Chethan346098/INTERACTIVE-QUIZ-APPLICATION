@@ -65,3 +65,4 @@ The Simple Quiz App is a beginner-friendly project that combines basic front-end
 
 #OUTPUT#
 
+![Image](https://github.com/user-attachments/assets/cf5947da-ae0a-477e-a2fc-ee50dc780410)
